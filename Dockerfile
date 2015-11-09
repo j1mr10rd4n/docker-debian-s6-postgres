@@ -1,4 +1,4 @@
-FROM j1mr10rd4n/debian-s6:8.2.1
+FROM j1mr10rd4n/docker-debian-s6:8.2.1
 MAINTAINER Jim Riordan <jim@j1mr10rd4n.info>
 
 RUN apt-key adv --keyserver ha.pool.sks-keyservers.net --recv-keys B97B0AFCAA1A47F044F244A07FCC7D46ACCC4CF8
